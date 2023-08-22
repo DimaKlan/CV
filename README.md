@@ -61,3 +61,6 @@ function setScrollIntoView(top) {
 * ***[https://dimaklan.github.io/BOOSTEDUSA-Landing-/](https://dimaklan.github.io/BOOSTEDUSA-Landing-/)***
 * ***[https://dimaklan.github.io/FreightTransportation/](https://dimaklan.github.io/FreightTransportation/)***
 * ***[https://dimaklan.github.io/DK/](https://dimaklan.github.io/DK/)***
+
+## **WORK EXPERIENCE**
+2021 - now I work for JSC "Savushkin product" as a software engineer (system administrator).
