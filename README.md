@@ -1,6 +1,8 @@
 
 # ***Dmitry Gritsuk***
 
+![foto](https://github.com/DimaKlan/CV/blob/main/foto.png)
+
 ## **CONTACTS**
 * ***Email:*** *dima.klan.99@mail.ru*
 * ***Telegram:*** *[DimaKlan](https://t.me/DimaKlan)*
