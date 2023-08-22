@@ -1,7 +1,7 @@
 
 # ***Dmitry Gritsuk***
 
-![foto](https://github.com/DimaKlan/CV/blob/main/foto.png)
+![foto](/foto.png)
 
 ## **CONTACTS**
 * ***Email:*** *dima.klan.99@mail.ru*
