@@ -65,4 +65,4 @@ function setScrollIntoView(top) {
 * ***[https://dimaklan.github.io/DK/](https://dimaklan.github.io/DK/)***
 
 ## **WORK EXPERIENCE**
-2021 - now I work for OAO "Savushkin product" as a software engineer (system administrator).
+***2021 - now*** I work for OAO "Savushkin product" as a software engineer (system administrator).
