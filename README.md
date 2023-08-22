@@ -13,11 +13,11 @@
 *A year ago I started learning html+css. With the help of YouTube and articles, I learned how to make simple pages. Later I started learning JavaScript(JS) on the site [https://learn.javascript.ru/](https://learn.javascript.ru/). Studied DOM events and also got acquainted with the basic structure. I also had experience with NodeJS and MySQL. Able to learn quickly, strives to constantly improve skills and professional growth. I also used the Code Wars website ([https://www.codewars.com/users/DimaKlan](https://www.codewars.com/users/DimaKlan)) to hone my JS skills.*
 
 ## **WORK EXPERIENCE**
-**2021 - now** I work for OAO "Savushkin product" as a software engineer (system administrator).
+**2020 - 2021** Softline - Development/support of new projects, teamwork, layout layout from Figma, working with git/github.
 
 **2021 - 2022** I was trained at EPAM as a web developer, after which I began an internship. Responsibilities included creating layouts from Figma, as well as layout of some modules of the site, working with git / github.
 
-**2020 - 2021** Softline - Development/support of new projects, teamwork, layout layout from Figma, working with git/github.
+**2021 - now** I work for OAO "Savushkin product" as a software engineer (system administrator).
 
 ## **CODE EXAMPLES**
 ```javascript
