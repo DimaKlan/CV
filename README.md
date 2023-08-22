@@ -65,6 +65,8 @@ function setScrollIntoView(top) {
 * ***[https://dimaklan.github.io/DK/](https://dimaklan.github.io/DK/)***
 
 ## **WORK EXPERIENCE**
-### **2021 - now** I work for OAO "Savushkin product" as a software engineer (system administrator).
-### **2021 - 2022** I was trained at EPAM as a web developer, after I interned. Responsibilities were to make up layouts from Figma and also layout of some modules of the site, working with git/github.
-### **2020 - 2021** Softline - Development/support of new projects, teamwork, layout layout from Figma, working with git/github.
+**2021 - now** I work for OAO "Savushkin product" as a software engineer (system administrator).
+
+**2021 - 2022** I was trained at EPAM as a web developer, after I interned. Responsibilities were to make up layouts from Figma and also layout of some modules of the site, working with git/github.
+
+**2020 - 2021** Softline - Development/support of new projects, teamwork, layout layout from Figma, working with git/github.
