@@ -56,7 +56,7 @@ function setScrollIntoView(top) {
 
 ## **LANGUAGES**
 * ***Russian:*** *Native speaker*
-* ***English:*** *A2(I am currently taking courses)*
+* ***English:*** *A2 (I'm currently taking courses)*
 
 ## **WORKS**
 * ***[https://dimaklan.github.io/CAR-MUSC/](https://dimaklan.github.io/CAR-MUSC/)***
