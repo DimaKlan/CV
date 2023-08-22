@@ -10,7 +10,9 @@
 * ***GitHub:*** *[DimaKlan](https://github.com/DimaKlan)*
 
 ## **ABOUT ME**
-*A year ago I started learning html+css. With the help of YouTube and articles, I learned how to make simple pages. Later I started learning JavaScript(JS) on the site [https://learn.javascript.ru/](https://learn.javascript.ru/). Studied DOM events and also got acquainted with the basic structure. I also had experience with NodeJS and MySQL. Able to learn quickly, strives to constantly improve skills and professional growth. I also used the Code Wars website ([https://www.codewars.com/users/DimaKlan](https://www.codewars.com/users/DimaKlan)) to hone my JS skills.*
+*A year ago I started learning html+css. With the help of YouTube and articles, I learned how to make simple pages. Later I started learning JavaScript(JS) on the site [https://learn.javascript.ru/](https://learn.javascript.ru/). Studied DOM events and also got acquainted with the basic structure. I also had experience with NodeJS and MySQL. Able to learn quickly, strives to constantly improve skills and professional growth. I also used the Code Wars website ([https://www.codewars.com/users/DimaKlan](https://www.codewars.com/users/DimaKlan)) to hone my JS skills.
+In my spare time, I studied video editing in Sony Vegas Pro and Adobe After Effects programs. Gluing videos, cropping videos, adding effects, working with music, etc.
+*
 
 ## **WORK EXPERIENCE**
 **2020 - 2021** **Softline** - Responsibilities included development/support of new projects, teamwork, layout layout from Figma, working with git / github.
