@@ -47,6 +47,7 @@ function setScrollIntoView(top) {
 * ***GitHub***
 * ***VS Code***
 * ***Figma, PhotoShop, Illustrator***
+* ***SonyVegasPro, Adobe After Effects***
 
 ## **EDUCATION**
 * ***University:*** *Brest State Technical University, Electronic Systems Engineer*
