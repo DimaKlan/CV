@@ -71,4 +71,4 @@ function setScrollIntoView(top) {
 * ***[https://dimaklan.github.io/BOOSTEDUSA-Landing-/](https://dimaklan.github.io/BOOSTEDUSA-Landing-/)***
 * ***[https://dimaklan.github.io/FreightTransportation/](https://dimaklan.github.io/FreightTransportation/)***
 * ***[https://dimaklan.github.io/DK/](https://dimaklan.github.io/DK/)***
-* ***[https://dimaklan.github.io/Tays_psycho/)***
+* ***[https://dimaklan.github.io/Tays_psycho/](https://dimaklan.github.io/Tays_psycho/)***
