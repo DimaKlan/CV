@@ -54,6 +54,7 @@ function setScrollIntoView(top) {
 * ***HTML5***
 * ***CSS3/SASS***
 * ***JS(Basic+DOM)***
+* ***React(Basic)***
 * ***GitHub***
 * ***VS Code***
 * ***Figma, PhotoShop, Illustrator***
