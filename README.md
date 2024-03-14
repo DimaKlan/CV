@@ -18,7 +18,7 @@ In my spare time, I studied video editing in Sony Vegas Pro and Adobe After Effe
 
 **2021 - 2022** I was trained at **EPAM** as a web developer, after which I began an internship. Responsibilities included creating layouts from Figma, as well as layout of some modules of the site, working with git / github.
 
-**2021 - now** I work for **OAO "Savushkin product"** as a software engineer (system administrator).
+**2021 - present** I work for **OAO "Savushkin product"** as a software engineer (system administrator).
 
 ## **CODE EXAMPLES**
 ```javascript
