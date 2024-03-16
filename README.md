@@ -14,11 +14,10 @@
 In my spare time, I studied video editing in Sony Vegas Pro and Adobe After Effects programs. Gluing videos, cropping videos, adding effects, working with music, etc.*
 
 ## **WORK EXPERIENCE**
-**2020 - 2021** **Softline** - Responsibilities included development/support of new projects, teamwork, layout layout from Figma, working with git / github.
 
 **2021 - 2022** I was trained at **EPAM** as a web developer, after which I began an internship. Responsibilities included creating layouts from Figma, as well as layout of some modules of the site, working with git / github.
 
-**2021 - present** I work for **OAO "Savushkin product"** as a software engineer (system administrator). 
+**2019 - present** I work for **OAO "Savushkin product"** as a software engineer (system administrator). 
 Responsibilities:
 - L1 user support;
 - Participation in the acceptance and accounting of applications for maintenance and installation of software;
