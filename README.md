@@ -18,7 +18,18 @@ In my spare time, I studied video editing in Sony Vegas Pro and Adobe After Effe
 
 **2021 - 2022** I was trained at **EPAM** as a web developer, after which I began an internship. Responsibilities included creating layouts from Figma, as well as layout of some modules of the site, working with git / github.
 
-**2021 - present** I work for **OAO "Savushkin product"** as a software engineer (system administrator).
+**2021 - present** I work for **OAO "Savushkin product"** as a software engineer (system administrator). 
+Responsibilities:
+- L1 user support;
+- Participation in the acceptance and accounting of applications for maintenance and installation of software;
+- Assistance in diagnosing and accounting for problems related to computer and office equipment;
+- Support of software tools used in the company;
+- Interaction with more experienced colleagues in studying the causes of technical failures.
+- working with Windows Server: Active Directory, Group Policy;
+- installation of network software on servers and workstations, configure the system on the server;
+- work in 1C, Zabbix, Grafana, Bitrix;
+- Support for presentations and meetings;
+- Keeping records of office equipment, peripheral and office equipment of the organization;
 
 ## **CODE EXAMPLES**
 ```javascript
