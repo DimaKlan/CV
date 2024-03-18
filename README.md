@@ -33,7 +33,7 @@ Responsibilities:
 ## **CODE EXAMPLES**
 
 ```javascript
-text += inputLower.checked ? textLower : '';
+	text += inputLower.checked ? textLower : '';
 	text += inputUpper.checked ? textUpper : '';
 	text += inputNum.checked ? textNum : '';
 	text += inputSymbols.checked ? textSymbols : '';
