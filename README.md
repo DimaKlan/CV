@@ -31,6 +31,20 @@ Responsibilities:
 - Keeping records of office equipment, peripheral and office equipment of the organization;
 
 ## **CODE EXAMPLES**
+
+```javascript
+text += inputLower.checked ? textLower : '';
+	text += inputUpper.checked ? textUpper : '';
+	text += inputNum.checked ? textNum : '';
+	text += inputSymbols.checked ? textSymbols : '';
+
+
+	for (let i = 0; i < inputLength ; i++) {
+		const randomIndex = Math.floor(Math.random() * text.length)
+		password += text[randomIndex]
+	}
+```
+
 ```javascript
 if(menuIcon.classList.contains('_active')){
   document.body.classList.remove('_lock');
